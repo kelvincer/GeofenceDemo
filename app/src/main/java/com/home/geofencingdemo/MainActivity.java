@@ -389,6 +389,7 @@ public class MainActivity extends AppCompatActivity implements
         } else {
             Log.e(TAG, "Geofence marker is null");
         }
+
     }
 
     @Override
